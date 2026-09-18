@@ -6,7 +6,7 @@
 - **Student Number:** ST10438046
 - **Module:** Web Development (WEDE5020)
 - **Part:** Part 2 — CSS Styling and Responsive Design
-- **Academic Year:** 2025
+- **Academic Year:** 2026
 
 ## Project Overview
 
